@@ -1,0 +1,35 @@
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.exe.config
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.exe
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.pdb
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.exe
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.pdb
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.Login.resources
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.Menu.resources
+c:\users\user\documents\visual studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.categoria.vwCategoria.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.libro.vwLibrobuscar.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.libro.mttLibros.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.prestamo.generarPrestamos.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.prestamo.mostrarPrestamos.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.prestamo.cancelarPrestamo.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.exe.config
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.exe
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.pdb
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.Login.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.Properties.Resources.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.categoria.vwCategoria.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.libro.mttLibros.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.libro.vwLibrobuscar.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.Menu.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.prestamo.cancelarPrestamo.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.prestamo.generarPrestamos.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.prestamo.mostrarPrestamos.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.exe
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.pdb
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.usuario.mttUsuarios.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.establecimiento.mttEstablecimientos.resources
+C:\Users\User\Desktop\ProyectoFinal\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.vista.prestamo.Dialogobusquedalibro.resources
